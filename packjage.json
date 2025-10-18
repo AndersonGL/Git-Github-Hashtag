@@ -1,0 +1,10 @@
+{
+
+  "name": "ci-test",
+
+  "script" : {
+    "test" : "echo ok"
+  }
+
+
+}
