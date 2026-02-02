@@ -9,6 +9,24 @@ Estudos de git e github
 git --version
 ````
 
+
+- Criar Pasta
+
+```bash
+
+mkdir nome da pasta
+
+````
+
+- Acessar a pasta
+
+```bash
+
+cd nome da pasta
+
+````
+
+
 - Como listar os arquivos da minha pasta
 
 ```bash
